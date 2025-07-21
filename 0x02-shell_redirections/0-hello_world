@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-Hello, World
-=======
 echo "Hello, World"
->>>>>>> 19cc83e (Add script to print Hello, World)
